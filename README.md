@@ -14,7 +14,7 @@ What I was able to do with this Horiseon web app upgrade was leave the functiona
 
 ## Credits
 
-N/A
+Starter code from Xandromus link: https://github.com/coding-boot-camp/urban-octo-telegram
 
 ## License
 
