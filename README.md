@@ -3,7 +3,8 @@
 - This project focused on cleaning the HTML and CSS to be concise and readable of the Horiseon web app.
 - Viewing how the code was first written up, I am able to understand where and how I could make it better.
 - I was able to practice CSS selectors, debugging when I had changed the code improperly, and the scout rule leaving the code a bit cleaner than originally.
-
+- https://devonforyou.github.io/horiseon-webapp-upgrade/ Here is a link to the deployed application.
+-![Alt text](Horiseon.png)
 ## Installation
 
 N/A

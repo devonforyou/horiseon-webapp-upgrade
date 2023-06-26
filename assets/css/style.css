@@ -84,22 +84,26 @@ p {
     background-color: #2589bd;
 }
 
+/* Combined the benefits-lead,brand, and cost into benefits-topics*/
 .benefit-topics {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
+/* Combined the benefits-lead h3,brand h3, and cost h3 into benefits-topics h3 */
 .benefit-topics h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
+/* Combined benefits-lead img, brand img, and cost img into benefits-topics h3 */
 .benefit-topics img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
+/* Combined search-engine-optimization, online-reputation-management, and social-media-marketing into page topics */
 .page-topics {
     margin-bottom: 20px;
     padding: 50px;
@@ -121,6 +125,7 @@ p {
     max-height: 200px;
 }
 
+/* Combinedsearch-engine-optimization, online-reputation-management, and social-media-marketing into page topics */
 .page-topics h2 {
     margin-bottom: 20px;
     font-size: 36px;
