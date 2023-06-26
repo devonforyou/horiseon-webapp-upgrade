@@ -103,7 +103,7 @@ p {
     max-width: 150px;
 }
 
-/* Combined search-engine-optimization, online-reputation-management, and social-media-marketing into page topics */
+/* Combined  class search-engine-optimization, online-reputation-management, and social-media-marketing into page topics */
 .page-topics {
     margin-bottom: 20px;
     padding: 50px;
@@ -112,20 +112,12 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
-#search-engine-optimization img {
+/* Combined  id search-engine-optimization, online-reputation-management, and social-media-marketing into page topics */
+#page-topics img {
     max-height: 200px;
 }
 
-#online-reputation-management img {
-    max-height: 200px;
-}
-
-#social-media-marketing img {
-    max-height: 200px;
-}
-
-/* Combinedsearch-engine-optimization, online-reputation-management, and social-media-marketing into page topics */
+/* Combined search-engine-optimization, online-reputation-management, and social-media-marketing into page topics */
 .page-topics h2 {
     margin-bottom: 20px;
     font-size: 36px;
